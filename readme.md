@@ -4,7 +4,7 @@
 # Blockchain Network Prototype
 --------------------------
 
-Working of a blockchain network is implemented using crypto currency as its use case.
+This project has the functionality of a single node in a blockchain network. The node can register other new nodes, mine, send and receive transactions. Using this, multiple nodes running on different ports or computers can form a blockchain network.
 
 -----------------
 ### Tech Used
